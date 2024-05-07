@@ -1,7 +1,6 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
-# DATE : 14.02.2024
-# NAME : Mourise jane S
-# REGISTER NUMBER:212222230085
+# NAME :ABISHEK PV
+# REGISTER NUMBER:212222230003
 # AIM :
 To write a C program to implement a symbol table.
 ## To write a C program to implement a symbol table.
